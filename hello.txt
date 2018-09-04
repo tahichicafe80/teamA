@@ -3,4 +3,8 @@ minnade gambaro!
 
 hagedo
 
+<<<<<<< HEAD
 onaka hetta hito wa imasu ka?
+=======
+hagedo
+>>>>>>> 6aba30046cbee2aa7fe04d5ea4a3678dccf0e5ba
